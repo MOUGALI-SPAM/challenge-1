@@ -119,7 +119,7 @@ p{
 }
 
 @media screen and (min-width: 720px) {
-  .card {
+  .main {
     display: grid;
     grid-template-columns: repeat(3, auto);
   }

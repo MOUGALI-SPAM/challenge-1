@@ -117,3 +117,9 @@ p{
   font-family: 'Lexend Deca', sans-serif;
   width: 80%
 }
+
+@media screen and (min-width: 720px) {
+  .card {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+  }
